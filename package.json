@@ -1,0 +1,13 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node backend/server.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
